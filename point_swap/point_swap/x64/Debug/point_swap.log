@@ -1,0 +1,16 @@
+﻿  point_swap.cpp
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(9,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(9,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(10,9): warning C4313: 'printf': 서식 문자열의 '%X'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(18,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(23,9): warning C4313: 'printf': 서식 문자열의 '%X'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\Q\source\repos\point_swap\point_swap\point_swap.cpp(19,28): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  point_swap.vcxproj -> C:\Users\Q\source\repos\point_swap\x64\Debug\point_swap.exe
